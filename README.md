@@ -13,6 +13,13 @@ The system provides:
 
 ---
 
+## Demo & Samples
+
+- **Sample audio file**: [audio.wav](./assets/audio.wav)  
+- **Video demo (prototype in action)**: [demo.mp4](./assets/ScreenRecordDemo.mp4)
+
+---
+
 ## 🚀 Features Implemented
 
 1. **Transcription**
